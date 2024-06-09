@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background: url(/img/background\ wam.png);
+    background: url(img/background\ wam.png);
     background-size: cover;
 }
 
@@ -24,7 +24,7 @@ body{
     width: 740px;
     height: 740px;
     background-color: green;
-    background: url(/img/soil.png);
+    background: url(img/soil.png);
     background-size: cover;
     border: 5px solid white;
     border-radius: 25px;
@@ -37,7 +37,7 @@ body{
     /* board = 740x740px 3x3 board*/
     width: 246px;
     height: 246px;
-    background-image: url(/img/pipe.png);
+    background-image: url(img/pipe.png);
     background-size: cover ;
 }
 
@@ -92,7 +92,7 @@ body{
 }
 /*---------------------------------------------------------------------*/
 #homeButton{
-    background:url(/img/home\ button.png);
+    background:url(img/home\ button.png);
    background-size: cover;
    position:absolute;
    width: 150px;

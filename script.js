@@ -36,7 +36,7 @@ function setMole() {
     }
 
     let mole = document.createElement("img");
-    mole.src = "/img/monty-mole.png";
+    mole.src = "img/monty-mole.png";
 
     let number = getRandomTile();
     currMoleTile = document.getElementById(number);
